@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: men-spring-nacos-service
+
+server:
+  port: 38080
