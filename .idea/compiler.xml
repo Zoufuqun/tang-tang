@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="men-spring-nacos-service" />
         <module name="men-spring-generate-mybatis-service" />
+        <module name="men-spring-feign-service" />
         <module name="men-algoritm-data-structure" />
         <module name="men-common" />
       </profile>

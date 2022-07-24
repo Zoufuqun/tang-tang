@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/men-spring/men-spring-nacos-service/pom.xml" />
         <option value="$PROJECT_DIR$/men-spring/men-spring-generate-mybatis-service/pom.xml" />
+        <option value="$PROJECT_DIR$/men-spring/men-spring-feign-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
