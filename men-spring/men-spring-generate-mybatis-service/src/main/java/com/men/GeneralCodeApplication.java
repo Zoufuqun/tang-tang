@@ -127,7 +127,7 @@ public class GeneralCodeApplication {
 
     private static void dataSourceConfig(AutoGenerator mpg) {
         DataSourceConfig dsc = new DataSourceConfig();
-        dsc.setUrl("jdbc:mysql://10.60.2.142:3306/pub_bo?useOldAliasMetadataBehavior=true&useUnicode=true&characterEncoding=utf-8&autoReconnect=true&rewriteBatchedStatements=true&allowMultiQueries=true&useSSL=false");
+        dsc.setUrl("***");
         // dsc.setSchemaName("public");
         dsc.setDriverName("com.mysql.cj.jdbc.Driver");
         dsc.setUsername("dev");
